@@ -5,12 +5,11 @@ h1{
     font-size: 50px;
 }
 
-}
-.orange-color{
-    color: orange;
-}
 #build{
     text-align: center  ;
+}
+#my-mission{
+    text-align: center;
 }
 
 .fexible-container{
@@ -48,8 +47,9 @@ h1{
     background-image: url(images/shapes/shape-3.png),url(images/shapes/shape-3.png);
     background-repeat: no-repeat;
     background-size: 20%;
-    background-position:
-
+}
+.orange-color{
+    color: orange;
 }
 footer{
     background-color: black;
