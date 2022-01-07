@@ -32,20 +32,20 @@ h1{
     color: whitesmoke;
 }
 .develop-limitless{
-    background-image: url(images/shapes/shape-1.png);
+    background-image: url(images/shapes/shape-9.png);
     background-repeat: no-repeat;
     background-position: left;
     background-size: 20%;
 }
 
 .global-community{
-    background-image: url(images/shapes/shape-1.png);
+    background-image: url(images/shapes/shape-8.png);
     background-repeat: no-repeat;
     background-position: bottom right;
     background-size: 20%;
 }
 .stay-safe{
-    background-image: url(images/shapes/shape-3.png),url(images/shapes/shape-3.png);
+    background-image: url(images/shapes/shape-6.png);
     background-position:top bottom left;
     background-repeat: no-repeat;
     background-size: 20%;
