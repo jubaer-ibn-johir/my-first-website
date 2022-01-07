@@ -37,6 +37,7 @@ h1{
     background-position: left;
     background-size: 20%;
 }
+
 .global-community{
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
@@ -45,8 +46,10 @@ h1{
 }
 .stay-safe{
     background-image: url(images/shapes/shape-3.png),url(images/shapes/shape-3.png);
+    background-position:top bottom left;
     background-repeat: no-repeat;
     background-size: 20%;
+    margin-left: 10px;
 }
 .orange-color{
     color: orange;
@@ -66,4 +69,22 @@ footer{
 }
 #gray{
     color: gray;
+}
+#row-one{
+    background-color: rgb(223, 222, 222);
+    border-radius: 20px;
+    margin: 10px 10px 10px 40px;
+}
+#row-two{
+    background-color: rgb(241, 183, 212);
+    border-radius: 20px;
+    margin: 10px 10px 10px 10px;
+}
+#row-three{
+    background-color: rgb(241, 235, 180);
+    border-radius: 20px;
+    margin: 10px 40px 10px 10px;
+}
+#image{
+    border-radius: 10px;
 }
