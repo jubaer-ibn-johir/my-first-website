@@ -4,6 +4,8 @@ body{
 h1{
     font-size: 50px;
 }
+
+}
 .orange-color{
     color: orange;
 }
@@ -49,4 +51,19 @@ h1{
     background-position:
 
 }
+footer{
+    background-color: black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    text-align: center;
+}
 
+
+#white{
+    color: white;
+}
+#tomato{
+    color: red;
+}
+#gray{
+    color: gray;
+}
